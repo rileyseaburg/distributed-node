@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@grpc/grpc-js": "1.1",
+    "@grpc/grpc-js": "1.13",
     "@grpc/proto-loader": "0.5",
     "fastify": "3.2"
   }
